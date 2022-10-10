@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.09d76242.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"preface/install.md","lastUpdated":1665314757000}'),r={name:"preface/install.md"};function s(n,c,o,p,l,i){return a(),t("div")}const f=e(r,[["render",s]]);export{_ as __pageData,f as default};
