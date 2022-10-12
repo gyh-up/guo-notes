@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t}from"./app.2f3d58ac.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"classify/redis/redis\u5185\u5B58\u788E\u7247\u7387.md"}'),r={name:"classify/redis/redis\u5185\u5B58\u788E\u7247\u7387.md"};function a(c,o,i,_,n,d){return t(),s("div")}const l=e(r,[["render",a]]);export{f as __pageData,l as default};
